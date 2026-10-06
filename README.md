@@ -14,7 +14,7 @@ La solución utiliza:
 
 | Nombre | Rol |
 |---|---|
-| [Matías Acuña] | [202210097-4] |
+| Matías Acuña | 202210097-4 |
 | [Integrante 2] | [Rol] |
 
 ## Arquitectura
